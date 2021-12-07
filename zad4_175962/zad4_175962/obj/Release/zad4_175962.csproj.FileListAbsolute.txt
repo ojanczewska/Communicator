@@ -1,0 +1,10 @@
+C:\Users\Ola\source\repos\zad4_175962\zad4_175962\bin\Release\zad4_175962.exe.config
+C:\Users\Ola\source\repos\zad4_175962\zad4_175962\bin\Release\zad4_175962.exe
+C:\Users\Ola\source\repos\zad4_175962\zad4_175962\bin\Release\zad4_175962.pdb
+C:\Users\Ola\source\repos\zad4_175962\zad4_175962\obj\Release\zad4_175962.Form1.resources
+C:\Users\Ola\source\repos\zad4_175962\zad4_175962\obj\Release\zad4_175962.Info.resources
+C:\Users\Ola\source\repos\zad4_175962\zad4_175962\obj\Release\zad4_175962.Properties.Resources.resources
+C:\Users\Ola\source\repos\zad4_175962\zad4_175962\obj\Release\zad4_175962.csproj.GenerateResource.cache
+C:\Users\Ola\source\repos\zad4_175962\zad4_175962\obj\Release\zad4_175962.csproj.CoreCompileInputs.cache
+C:\Users\Ola\source\repos\zad4_175962\zad4_175962\obj\Release\zad4_175962.exe
+C:\Users\Ola\source\repos\zad4_175962\zad4_175962\obj\Release\zad4_175962.pdb
