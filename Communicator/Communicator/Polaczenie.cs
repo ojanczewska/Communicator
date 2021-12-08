@@ -7,7 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace zad4_175962
+namespace Communicator
 {
     public class Polaczenie : ApplicationContext
     {

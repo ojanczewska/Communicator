@@ -1,4 +1,4 @@
-﻿namespace zad4_175962
+﻿namespace Communicator
 {
     partial class Form1
     {

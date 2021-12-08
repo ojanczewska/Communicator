@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace zad4_175962
+namespace Communicator
 {
     public partial class Info : Form
     {

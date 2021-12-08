@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace zad4_175962
+namespace Communicator
 {
     static class Program
     {

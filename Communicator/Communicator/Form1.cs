@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
-namespace zad4_175962
+namespace Communicator
 {
     public partial class Form1 : Form
     {

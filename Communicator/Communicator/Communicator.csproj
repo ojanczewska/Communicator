@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0FAE592B-DD98-476C-AE10-5B93E71FB483}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>zad4_175962</RootNamespace>
-    <AssemblyName>zad4_175962</AssemblyName>
+    <RootNamespace>Communicator</RootNamespace>
+    <AssemblyName>Communicator</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -75,6 +75,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
